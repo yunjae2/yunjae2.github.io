@@ -25,4 +25,4 @@ collections:
     output: true
     permalink: /poetry/:path/
 
-exclude: poetry.md portfolio.md
+exclude: poetry.md, portfolio.md
