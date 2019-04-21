@@ -12,7 +12,9 @@ I love to think deeply.
 Getting into the flow is the most valuable moment in my life.
 
 Currently I am studying memory management in operating systems.
-If you want to see my works, go to work tab or visit my Github.
+If you want to see my works, go to
+[projects]({{ site.baseurl }}{% link projects.md %}) or visit my
+[Github](https://github.com/yunjae2).
 
 Welcome to my blog.
 
