@@ -4,13 +4,17 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" src="/img/9.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+I am Yunjae Lee.
+I love to think deeply.
+Getting into the flow is the most valuable moment in my life.
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+Currently I am studying memory management in operating systems.
+If you want to see my works, go to work tab or visit my Github.
 
+Welcome to my blog.
 
 <br/>
 <hr/>
