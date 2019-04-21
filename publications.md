@@ -3,7 +3,7 @@ layout: post
 title: publications
 ---
 
-- Seongjae Park, Yunjae Lee, Moonsub Kim, and Heon Y. Yeom, __“Automating Context Based Access Pattern Hint Injection for System Performance and Swap Storage Durability”__ in _The 11th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage ’19)_, 2019.
+- Seongjae Park, Yunjae Lee, Moonsub Kim, and Heon Y. Yeom, __“Automating Context Based Access Pattern Hint Injection for System Performance and Swap Storage Durability”__ in _The 11th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage)_, 2019.
 
 - Seongjae Park, Yunjae Lee, Yoonhee Kim, and Heon Y. Yeom, __“Profiling Data Access Pattern of Huge Workloads with Bounded Overhead and Accuracy,”__ in _The 7th International Workshop on Autonomic Management of high performance Grid and Cloud Computing_, 2019.
 
