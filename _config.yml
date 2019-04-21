@@ -24,3 +24,5 @@ collections:
   poetry:
     output: true
     permalink: /poetry/:path/
+
+exclude: poetry.md portfolio.md
