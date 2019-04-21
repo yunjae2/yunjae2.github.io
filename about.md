@@ -6,7 +6,6 @@ permalink: /about/
 
 <img class="col one right" src="/img/9.jpg">
 
-<br/>
 I am Yunjae Lee.
 I love to think deeply.
 Getting into the flow is the most valuable moment in my life.
