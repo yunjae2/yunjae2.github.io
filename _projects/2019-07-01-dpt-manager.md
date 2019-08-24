@@ -2,6 +2,7 @@
 layout: page
 title: "dpt-manager: Document manager for Sony digital paper in Linux"
 start_date: 2019-05-19
+end_date: 2019-08-25
 ---
 
 Linux users struggle to manage their Sony digital papers, because the official digital paper app supports only Windows and Mac.
@@ -14,4 +15,5 @@ It provides some scripts to help users manage their documents.
 Users can upload or download documents with just one command.
 Also documents can be saved in online storage (git remote repository at this moment) and synchronized with the online storage.
 
-For anyone interested, visit [__here__](https://github.com/yunjae2/dpt-manager).
+This project is ended as [the project](https://github.com/janten/dpt-rp1-py) started to support sync operation.
+I'm going to focus on implementing sync operation in the project.
