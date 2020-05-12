@@ -6,3 +6,5 @@ Gemfile
 Gemfile.lock
 
 *.swp
+
+.jekyll-cache/
